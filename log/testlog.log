@@ -1,0 +1,193 @@
+2023-10-03 14:32:13,117 - HybridFramework -INFO - username is entered
+2023-10-03 14:32:14,927 - HybridFramework -INFO - password is entered
+2023-10-03 14:32:21,900 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-03 15:08:09,462 - HybridFramework -INFO - username is entered
+2023-10-03 15:08:09,641 - HybridFramework -INFO - password is entered
+2023-10-03 15:08:10,907 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-03 15:09:56,875 - HybridFramework -INFO - username is entered
+2023-10-03 15:09:57,019 - HybridFramework -INFO - password is entered
+2023-10-03 15:09:58,153 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-03 15:15:45,953 - HybridFramework -INFO - username is entered
+2023-10-03 15:15:46,080 - HybridFramework -INFO - password is entered
+2023-10-03 15:15:47,208 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-03 15:20:37,977 - HybridFramework -INFO - username is entered
+2023-10-03 15:20:38,137 - HybridFramework -INFO - password is entered
+2023-10-03 15:20:39,235 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-04 15:28:55,379 - HybridFramework -INFO - username is entered
+2023-10-04 15:28:55,540 - HybridFramework -INFO - password is entered
+2023-10-04 15:28:56,778 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-04 15:28:56,797 - HybridFramework -INFO - testcase is passed
+2023-10-04 15:30:58,341 - HybridFramework -INFO - username is entered
+2023-10-04 15:30:58,463 - HybridFramework -INFO - password is entered
+2023-10-04 15:31:00,404 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-04 15:31:00,736 - HybridFramework -INFO - screenshot is taken
+2023-10-04 15:35:57,069 - HybridFramework -INFO - username is entered
+2023-10-04 15:35:57,190 - HybridFramework -INFO - password is entered
+2023-10-04 15:35:58,378 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-04 15:35:58,667 - HybridFramework -INFO - screenshot is taken
+2023-10-04 15:38:20,411 - HybridFramework -INFO - username is entered
+2023-10-04 15:38:20,547 - HybridFramework -INFO - password is entered
+2023-10-04 15:38:21,737 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-04 15:38:22,051 - HybridFramework -INFO - screenshot is taken
+2023-10-09 14:14:59,860 - HybridFramework -INFO - username is entered
+2023-10-09 14:15:02,124 - HybridFramework -INFO - password is entered
+2023-10-09 14:15:05,791 - HybridFramework -INFO - login button is clicked
+2023-10-09 14:15:09,006 - HybridFramework -INFO - Logout button clicking activity is completed
+2023-10-09 14:15:11,550 - HybridFramework -INFO - link is clicking
+2023-10-09 14:15:12,112 - HybridFramework -INFO - username is entered
+2023-10-09 14:15:14,246 - HybridFramework -INFO - password is entered
+2023-10-09 14:15:17,392 - HybridFramework -INFO - login button is clicked
+2023-10-09 14:15:20,603 - HybridFramework -INFO - username is entered
+2023-10-09 14:15:22,704 - HybridFramework -INFO - password is entered
+2023-10-09 14:15:25,735 - HybridFramework -INFO - login button is clicked
+2023-10-09 18:02:09,737 - HybridFramework -INFO - user name is entered
+2023-10-09 18:02:09,877 - HybridFramework -INFO - password is entered
+2023-10-09 18:02:11,063 - HybridFramework -INFO - clicking activity is completed
+2023-10-09 18:02:11,543 - HybridFramework -INFO - clicking activity is completed
+2023-10-09 18:02:12,019 - HybridFramework -INFO - clicking activity is completed
+2023-10-09 18:02:12,608 - HybridFramework -INFO - user name is entered
+2023-10-09 18:02:12,691 - HybridFramework -INFO - password is entered
+2023-10-09 18:02:13,189 - HybridFramework -INFO - clicking activity is completed
+2023-10-09 18:02:13,755 - HybridFramework -INFO - user name is entered
+2023-10-09 18:02:13,842 - HybridFramework -INFO - password is entered
+2023-10-09 18:02:14,257 - HybridFramework -INFO - clicking activity is completed
+2023-10-10 14:48:28,742 - HybridFramework -INFO - user name is entered
+2023-10-10 14:48:28,965 - HybridFramework -INFO - password is entered
+2023-10-10 14:48:30,745 - HybridFramework -INFO - clicking activity is completed
+2023-10-10 14:48:31,362 - HybridFramework -INFO - clicking activity is completed
+2023-10-10 14:48:32,160 - HybridFramework -INFO - clicking activity is completed
+2023-10-10 14:48:33,276 - HybridFramework -INFO - user name is entered
+2023-10-10 14:48:33,454 - HybridFramework -INFO - password is entered
+2023-10-10 14:48:33,905 - HybridFramework -INFO - clicking activity is completed
+2023-10-10 14:48:34,957 - HybridFramework -INFO - user name is entered
+2023-10-10 14:48:35,162 - HybridFramework -INFO - password is entered
+2023-10-10 14:48:35,973 - HybridFramework -INFO - clicking activity is completed
+2023-10-10 14:49:06,426 - HybridFramework -INFO - user name is entered
+2023-10-10 14:49:06,604 - HybridFramework -INFO - password is entered
+2023-10-10 14:49:07,814 - HybridFramework -INFO - clicking activity is completed
+2023-10-10 14:49:09,056 - HybridFramework -INFO - clicking activity is completed
+2023-10-10 14:49:09,597 - HybridFramework -INFO - clicking activity is completed
+2023-10-10 14:49:10,433 - HybridFramework -INFO - user name is entered
+2023-10-10 14:49:10,663 - HybridFramework -INFO - password is entered
+2023-10-10 14:49:11,320 - HybridFramework -INFO - clicking activity is completed
+2023-10-10 14:49:12,119 - HybridFramework -INFO - user name is entered
+2023-10-10 14:49:12,295 - HybridFramework -INFO - password is entered
+2023-10-10 14:49:12,963 - HybridFramework -INFO - clicking activity is completed
+2023-10-16 16:22:56,534 - HybridFramework -INFO - user name is entered
+2023-10-16 16:22:56,723 - HybridFramework -INFO - password is entered
+2023-10-16 16:22:58,621 - HybridFramework -INFO - clicking activity is completed
+2023-10-16 16:22:59,285 - HybridFramework -INFO - clicking activity is completed
+2023-10-16 16:23:00,507 - HybridFramework -INFO - clicking activity is completed
+2023-10-16 16:23:01,260 - HybridFramework -INFO - user name is entered
+2023-10-16 16:23:01,669 - HybridFramework -INFO - password is entered
+2023-10-16 16:23:02,686 - HybridFramework -INFO - clicking activity is completed
+2023-10-16 16:23:03,528 - HybridFramework -INFO - user name is entered
+2023-10-16 16:23:03,747 - HybridFramework -INFO - password is entered
+2023-10-16 16:23:04,190 - HybridFramework -INFO - clicking activity is completed
+2023-10-16 16:27:30,092 - HybridFramework -INFO - user name is entered
+2023-10-16 16:27:30,328 - HybridFramework -INFO - password is entered
+2023-10-16 16:27:32,428 - HybridFramework -INFO - clicking activity is completed
+2023-10-16 16:27:33,939 - HybridFramework -INFO - clicking activity is completed
+2023-10-16 16:27:35,555 - HybridFramework -INFO - clicking activity is completed
+2023-10-16 16:27:36,364 - HybridFramework -INFO - user name is entered
+2023-10-16 16:27:36,600 - HybridFramework -INFO - password is entered
+2023-10-16 16:27:37,374 - HybridFramework -INFO - clicking activity is completed
+2023-10-16 16:27:38,298 - HybridFramework -INFO - user name is entered
+2023-10-16 16:27:38,466 - HybridFramework -INFO - password is entered
+2023-10-16 16:27:39,117 - HybridFramework -INFO - clicking activity is completed
+2023-10-16 16:29:45,407 - HybridFramework -INFO - user name is entered
+2023-10-16 16:29:45,610 - HybridFramework -INFO - password is entered
+2023-10-16 16:29:46,052 - HybridFramework -INFO - clicking activity is completed
+2023-10-16 16:29:47,195 - HybridFramework -INFO - user name is entered
+2023-10-16 16:29:47,392 - HybridFramework -INFO - password is entered
+2023-10-16 16:29:50,042 - HybridFramework -INFO - clicking activity is completed
+2023-10-16 16:29:50,652 - HybridFramework -INFO - clicking activity is completed
+2023-10-16 16:29:51,383 - HybridFramework -INFO - clicking activity is completed
+2023-10-16 16:29:51,915 - HybridFramework -INFO - user name is entered
+2023-10-16 16:29:52,072 - HybridFramework -INFO - password is entered
+2023-10-16 16:29:52,584 - HybridFramework -INFO - clicking activity is completed
+2023-10-17 17:34:49,243 - HybridFramework -INFO - user name is entered
+2023-10-17 17:34:49,376 - HybridFramework -INFO - password is entered
+2023-10-17 17:34:51,094 - HybridFramework -INFO - clicking activity is completed
+2023-10-17 17:34:51,617 - HybridFramework -INFO - clicking activity is completed
+2023-10-17 17:34:52,210 - HybridFramework -INFO - clicking activity is completed
+2023-10-17 17:34:52,589 - HybridFramework -INFO - user name is entered
+2023-10-17 17:34:52,709 - HybridFramework -INFO - password is entered
+2023-10-17 17:34:53,230 - HybridFramework -INFO - clicking activity is completed
+2023-10-17 17:34:53,849 - HybridFramework -INFO - user name is entered
+2023-10-17 17:34:53,980 - HybridFramework -INFO - password is entered
+2023-10-17 17:34:54,493 - HybridFramework -INFO - clicking activity is completed
+2023-10-17 17:42:33,997 - HybridFramework -INFO - user name is entered
+2023-10-17 17:42:34,152 - HybridFramework -INFO - password is entered
+2023-10-17 17:42:35,341 - HybridFramework -INFO - clicking activity is completed
+2023-10-17 17:42:36,235 - HybridFramework -INFO - clicking activity is completed
+2023-10-17 17:42:36,833 - HybridFramework -INFO - clicking activity is completed
+2023-10-17 17:42:37,124 - HybridFramework -INFO - user name is entered
+2023-10-17 17:42:37,291 - HybridFramework -INFO - password is entered
+2023-10-17 17:42:37,825 - HybridFramework -INFO - clicking activity is completed
+2023-10-17 17:42:38,490 - HybridFramework -INFO - user name is entered
+2023-10-17 17:42:38,597 - HybridFramework -INFO - password is entered
+2023-10-17 17:42:39,575 - HybridFramework -INFO - clicking activity is completed
+2023-10-18 15:40:17,537 - HybridFramework -INFO - user name is entered
+2023-10-18 15:40:17,777 - HybridFramework -INFO - password is entered
+2023-10-18 15:40:19,056 - HybridFramework -INFO - clicking activity is completed
+2023-10-18 15:40:20,386 - HybridFramework -INFO - clicking activity is completed
+2023-10-18 15:40:21,456 - HybridFramework -INFO - clicking activity is completed
+2023-10-18 15:40:22,025 - HybridFramework -INFO - user name is entered
+2023-10-18 15:40:22,166 - HybridFramework -INFO - password is entered
+2023-10-18 15:40:22,924 - HybridFramework -INFO - clicking activity is completed
+2023-10-18 15:40:23,766 - HybridFramework -INFO - user name is entered
+2023-10-18 15:40:23,975 - HybridFramework -INFO - password is entered
+2023-10-18 15:40:24,652 - HybridFramework -INFO - clicking activity is completed
+2023-10-18 15:41:46,063 - HybridFramework -INFO - username is eneterd
+2023-10-18 15:41:46,300 - HybridFramework -INFO - password is entered
+2023-10-18 15:41:47,611 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-18 15:41:47,965 - HybridFramework -INFO - screenshot is taken
+2023-10-18 15:43:38,407 - HybridFramework -INFO - username is eneterd
+2023-10-18 15:43:38,680 - HybridFramework -INFO - password is entered
+2023-10-18 15:43:39,929 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-18 15:43:39,959 - HybridFramework -INFO - testcase is passed
+2023-10-18 15:56:52,764 - HybridFramework -INFO - username is eneterd
+2023-10-18 15:56:52,953 - HybridFramework -INFO - password is entered
+2023-10-18 15:56:54,108 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-18 15:56:54,130 - HybridFramework -INFO - testcase is passed
+2023-10-18 16:04:28,825 - HybridFramework -INFO - username is eneterd
+2023-10-18 16:04:29,283 - HybridFramework -INFO - password is entered
+2023-10-18 16:04:32,401 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-18 16:04:32,423 - HybridFramework -INFO - testcase is passed
+2023-10-20 13:03:46,079 - HybridFramework -INFO - username is eneterd
+2023-10-20 13:03:46,196 - HybridFramework -INFO - password is entered
+2023-10-20 13:03:47,364 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-20 13:03:47,388 - HybridFramework -INFO - testcase is passed
+2023-10-20 13:07:38,880 - HybridFramework -INFO - username is eneterd
+2023-10-20 13:07:38,987 - HybridFramework -INFO - password is entered
+2023-10-20 13:07:40,609 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-20 13:07:40,626 - HybridFramework -INFO - testcase is passed
+2023-10-20 15:57:25,497 - HybridFramework -INFO - username is eneterd
+2023-10-20 15:57:25,605 - HybridFramework -INFO - password is entered
+2023-10-20 15:57:26,698 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-20 15:57:26,748 - HybridFramework -INFO - testcase is passed
+2023-10-23 14:37:03,693 - HybridFramework -INFO - username is eneterd
+2023-10-23 14:37:03,849 - HybridFramework -INFO - password is entered
+2023-10-23 14:37:04,906 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-23 14:37:04,934 - HybridFramework -INFO - testcase is passed
+2023-10-25 15:33:56,659 - HybridFramework -INFO - username is eneterd
+2023-10-25 15:33:56,830 - HybridFramework -INFO - password is entered
+2023-10-25 15:33:58,021 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-25 15:33:58,043 - HybridFramework -INFO - testcase is passed
+2023-10-25 15:37:59,895 - HybridFramework -INFO - username is eneterd
+2023-10-25 15:38:00,234 - HybridFramework -INFO - password is entered
+2023-10-25 15:38:01,522 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-25 15:38:01,640 - HybridFramework -INFO - testcase is passed
+2023-10-25 15:38:39,821 - HybridFramework -INFO - username is eneterd
+2023-10-25 15:38:40,050 - HybridFramework -INFO - password is entered
+2023-10-25 15:38:41,217 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-25 15:38:41,241 - HybridFramework -INFO - testcase is passed
+2023-10-25 15:42:23,185 - HybridFramework -INFO - username is eneterd
+2023-10-25 15:42:23,343 - HybridFramework -INFO - password is entered
+2023-10-25 15:42:24,564 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-25 15:42:24,600 - HybridFramework -INFO - testcase is passed
+2023-10-30 14:26:57,535 - HybridFramework -INFO - username is eneterd
+2023-10-30 14:26:57,734 - HybridFramework -INFO - password is entered
+2023-10-30 14:26:59,314 - HybridFramework -INFO - login button clicking activity is completed
+2023-10-30 14:26:59,358 - HybridFramework -INFO - testcase is passed
